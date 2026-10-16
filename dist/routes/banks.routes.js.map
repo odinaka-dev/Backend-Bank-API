@@ -1,0 +1,1 @@
+{"version":3,"file":"banks.routes.js","sourceRoot":"","sources":["../../src/routes/banks.routes.ts"],"names":[],"mappings":";;;AAAA,qCAAiC;AACjC,2DAAqD;AAExC,QAAA,WAAW,GAAG,IAAA,gBAAM,GAAE,CAAC;AAEpC,mBAAW,CAAC,GAAG,CAAC,GAAG,EAAE,CAAC,IAAI,EAAE,GAAG,EAAE,EAAE;IACjC,GAAG,CAAC,IAAI,CAAC,EAAE,KAAK,EAAE,IAAA,wBAAS,GAAE,EAAE,CAAC,CAAC;AACnC,CAAC,CAAC,CAAC"}
